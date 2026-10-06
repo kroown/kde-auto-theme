@@ -1,0 +1,14 @@
+{
+  "id": "org.example.kde.autottheme",
+  "name": "AutoTheme for KDE Plasma",
+  "summary": "Automatic theme installer for KDE Plasma 6",
+  "description": "Installs a coordinated plasma theme, icon theme, color scheme and window decoration in one step.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/example/kde-auto-theme",
+  "categories": ["Desktop", "Themes"],
+  "targets": {
+    "plasma": "6.x",
+    "qt": "6.x"
+  }
+}

@@ -1,0 +1,11 @@
+[Icon Theme]
+Name=AutoTheme Icons
+Comment=Placeholder icon theme — real icons pending
+Directories=scalable/apps
+
+[scalable/apps]
+Size=48
+MinSize=16
+MaxSize=512
+Type=Scalable
+Context=Applications

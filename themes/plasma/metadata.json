@@ -1,0 +1,14 @@
+{
+  "KPackageStructure": "Plasma/Theme",
+  "KPlugin": {
+    "Id": "org.example.autottheme.plasma",
+    "Name": "AutoTheme",
+    "Description": "Placeholder plasma theme — artwork pending",
+    "Version": "0.0.1",
+    "Authors": [
+      { "Name": "AutoTheme contributors", "Email": "devnull@example.invalid" }
+    ],
+    "License": "MIT"
+  },
+  "X-Plasma-APIMinimumVersion": "6.0"
+}

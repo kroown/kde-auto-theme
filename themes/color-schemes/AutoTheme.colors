@@ -1,0 +1,16 @@
+[General]
+Name=AutoTheme
+ColorScheme=AutoTheme
+KDE_TEMPORARY_SCHEME=false
+
+[Colors:Window]
+BackgroundNormal=16,20,24
+ForegroundNormal=235,238,242
+
+[Colors:View]
+BackgroundNormal=24,28,33
+ForegroundNormal=235,238,242
+
+[Colors:Selection]
+BackgroundNormal=27,106,201
+ForegroundNormal=255,255,255

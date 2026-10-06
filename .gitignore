@@ -1,0 +1,13 @@
+# build output
+dist/
+*.tar.gz
+
+# editor / OS noise
+*.swp
+.DS_Store
+.idea/
+.vscode/
+
+# logs
+*.log
+install.log
