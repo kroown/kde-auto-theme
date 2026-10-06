@@ -16,7 +16,7 @@ then wires them all up so the desktop looks consistent after a single run.
 
 ## Screenshot
 
-![sleek design](assets/screenshot-main.svg)
+![sleek design](assets/image.webp)
 
 ## Requirements
 
