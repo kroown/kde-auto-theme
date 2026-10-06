@@ -1,3 +1,28 @@
 #!/usr/bin/env bash
-echo "AutoTheme installer: not implemented yet."
+# AutoTheme installer — PLACEHOLDER. Installs absolutely nothing.
+
+echo "AutoTheme installer (placeholder mode)"
+echo
+
+steps=(
+  "Warming up the penguins"
+  "Counting pixels"
+  "Polishing the plasma theme"
+  "Aligning window corners"
+  "Consulting the design committee"
+  "Pretending to do important work"
+)
+
+bar_width=40
+for label in "${steps[@]}"; do
+  printf '  %-32s [' "$label"
+  for ((i = 0; i < bar_width; i++)); do
+    printf '#'
+    sleep 0.02
+  done
+  printf '] 100%%\n'
+done
+
+echo
+echo "Done! ...just kidding. Nothing was installed; this script is a placeholder."
 exit 1
