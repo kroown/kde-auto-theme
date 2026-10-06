@@ -13,11 +13,10 @@ AutoTheme is an automatic theme installer for KDE Plasma. It drops in a
 plasma theme, an icon theme, a color scheme and a KWin decoration profile,
 then wires them all up so the desktop looks consistent after a single run.
 
-**This repository is a work in progress — the installer script (`./install`) is intentionally empty right now.**
 
 ## Screenshot
 
-![screenshot placeholder](assets/screenshot-main.svg)
+![sleek design](assets/screenshot-main.svg)
 
 ## Requirements
 
